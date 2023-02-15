@@ -29,7 +29,7 @@ pnpm run dev
 
 
 
-使用 `pnpm` 当做包管理工具，用`pnpm workspace`来实现`monorepo`。
+使用 `pnpm` 当做包管理工具，用`pnpm workspace`来实现`monorepo`
 
 ```shell
 # 安装
